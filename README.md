@@ -12,7 +12,9 @@ You can find the dataset freely [here](http://archive.ics.uci.edu/ml/datasets/Tw
 
 ### The code
 
-The code is pretty straight forward and well documented. The code has been arranged in form of IPython Notebooks, each notebook corresponds to a particular "classifier" or "technique" used for classifying the dataset.
+The code is pretty straight forward and well documented. 
+The preprocessing of the documents and the implementation of classifiers have been done from scratch and then the results have been compared to inbuilt sklearn's classifiers. 
+The code has been arranged in form of IPython Notebooks, each notebook corresponds to a particular "classifier" or "technique" used for classifying the dataset.
 
 ### Requirements
 
