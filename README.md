@@ -3,7 +3,7 @@
 
 ### Dataset
 
-For dataset I used the famous "20 Newsgrousps" dataset.
+For dataset I used the famous "20 Newsgroups" dataset.
 
 The data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups.
 I've included the dataset in the repo, located at `20_newsgroups\` directory.
